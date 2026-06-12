@@ -35,7 +35,7 @@ body {
 .card {
   padding: clamp(1rem, 0.3571vw + 0.9286rem, 1.25rem);
   background: var(--white);
-  max-width: 320px;
+  max-width: 20rem;
   width: 100%;
   border-radius: 18px;
   box-sizing: border-box;
@@ -48,7 +48,7 @@ body {
 .card-image {
   border-radius: 10px;
   overflow: hidden;
-  margin-block-end: 24px;
+  margin-block-end: clamp(1rem, 0.7143vw + 0.8571rem, 1.5rem);
 }
 .card-image img {
   width: 100%;
