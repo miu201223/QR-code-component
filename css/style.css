@@ -2,12 +2,12 @@
 
 h1 {
   font-weight: 700;
-  font-size: 22px;
+  font-size: 1.375rem;
   line-height: 1.2;
   color: #1f3251;
 }
 p {
-  font-size: 15px;
+  font-size: 0.9375rem;
   font-weight: 400;
   letter-spacing: .2px;
   color: #68778d;
